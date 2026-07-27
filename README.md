@@ -11,9 +11,6 @@ dans le cadre de ma pratique personnelle.
 | [Lampiao](./lampiao/lampiao.md) | Vulnhub | Moyen | Drupal · Dirty COW (CVE-2016-5195) |
 | [Ripper](./ripper/ripper.md) | Vulnhub | Moyen | Fuite d'identif
 
-## Autres projets
-
-- [pentest-automation-platform](https://github.com/Moussa487/pentest-automation-platform) — Plateforme Flask automatisant reconnaissance, scan de vulnérabilités et génération de rapports PDF classifiés CVSS
 
 ## Contact
 
