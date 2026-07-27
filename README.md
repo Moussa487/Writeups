@@ -13,7 +13,7 @@ dans le cadre de ma pratique personnelle.
 
 ## Autres projets
 
-- [pentest-automation-platform](https://github.com/TON-USERNAME/pentest-automation-platform) — Plateforme Flask automatisant reconnaissance, scan de vulnérabilités et génération de rapports PDF classifiés CVSS
+- [pentest-automation-platform](https://github.com/Moussa487/pentest-automation-platform) — Plateforme Flask automatisant reconnaissance, scan de vulnérabilités et génération de rapports PDF classifiés CVSS
 
 ## Contact
 
